@@ -1,2 +1,3 @@
 # jeongo-malgo
-얼굴짱 졍이의 레포
+###### 💙 Java Script로 알고리즘 문제 풀어보려고 합니다💙 
+###### 🤍python🤍 : https://github.com/NaveOWO/Algorithm
