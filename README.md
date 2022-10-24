@@ -1,5 +1,5 @@
 # jeongo-malgo
-###### JavaScript로 알고리즘 문제 풀어보려고 합니다 
+###### JavaScript로 알고리즘 문제 풀어보려고 합니다람쥐
 ---
 
 **🔥[지영](https://github.com/algo-malgo/jeongo-malgo) vs [혜준](https://github.com/algo-malgo/jungo-malgo)🔥 알고리즘 맞짱 시즌1** <sub><sup>2022.10.14 ~ 2022.10.27</sub></sup>
